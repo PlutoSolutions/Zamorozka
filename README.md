@@ -1,13 +1,16 @@
 <div align="center">
 
 ## Zamorozka 1.0 (Public Beta Testing Edition)
-logo
+  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V5pZy6Gz0u0" target="_blank">
+ <img src="https://i.imgur.com/XGnTmQq.png" alt="Watch the video" width="50%" />
+</a>
 
 ![](https://i.imgur.com/A5EJyJG.png)
 
 mirrors:
 
-[yougame.biz](https://yougame.biz/threads/) / [crystalpvp.ru](https://crystalpvp.ru/zamorozka/) / [plutonium.wtf](https://plutonium.wtf/zamorozka/)
+[yougame.biz](https://yougame.biz/threads/244785/) / [crystalpvp.ru](https://crystalpvp.ru/zamorozka/) / [plutonium.wtf](https://plutonium.wtf/zamorozka/)
 
 [plutosolutions telegram](https://t.me/plutosolutions)
 
@@ -42,7 +45,7 @@ So how do you install this client?
 
 </div>
 
-1. Download package.zip from the releases page
+1. Download zm_package.zip from the [releases page](https://github.com/PlutoSolutions/Zamorozka/releases)
 0. Put zhook.jar into your .minecraft folder
 0. Put Zamorozka.jar into your .minecraft/mods folder
 0. Add "-Xbootclasspath/p:zhook.jar" to your JVM arguments ([MultiMC](https://i.imgur.com/aCOCnnp.png) / [TL & TLauncher](https://www.youtube.com/watch?v=56c3CYL-qnw) (type -Xbootclasspath... instead of noverify))
